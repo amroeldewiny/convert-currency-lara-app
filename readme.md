@@ -11,10 +11,10 @@ Laravel is a PHP framework developed with PHP developer productivity in mind. Wr
 
 
 ## Before anything else be sure to have server running like
-1- wamp
-2-xampp
-3- mamp
-4 - homestead vagrant box
+1- wamp<br />
+2-xampp<br />
+3- mamp<br />
+4 - homestead vagrant box<br />
 
 ## Important steps
 
