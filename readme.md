@@ -3,8 +3,21 @@
 Convert Currency simple app working with laravel and angular <br />
 The app build with laravel 5.6 and angualr 5 to create simple authentication app
 
+## Why we use Laravel api
+
+With the rise of mobile development and JavaScript frameworks, using a RESTful API is the best option to build a single interface between your data and your client.
+
+Laravel is a PHP framework developed with PHP developer productivity in mind. Written and maintained by Taylor Otwell, the framework is very opinionated and strives to save developer time by favoring convention over configuration. The framework also aims to evolve with the web and has already incorporated several new features and ideas in the web development world—such as job queues, API authentication out of the box, real-time communication, and much more.
+
+
+## Before anything else be sure to have server running like
+1- wamp
+2-xampp
+3- mamp
+4 - homestead vagrant box
 
 ## Important steps
+
 1- After pulling go to hots file in c:/windows/system32/drivers/etc/hosts and add 192.168.10.10  laraCurrency.test <br />
 2- cd to project folder --- folder name laraCurrency <br />
 3- rename .env.example to .env <br />
