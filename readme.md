@@ -15,6 +15,7 @@ Laravel is a PHP framework developed with PHP developer productivity in mind. Wr
 2-xampp<br />
 3- mamp<br />
 4 - homestead vagrant box<br />
+5- or eny vagrant box <br />
 
 ## Important steps
 
